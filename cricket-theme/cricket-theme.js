@@ -6,5 +6,5 @@ define(function(require, exports, module) {
     // require("css!themes/theme-reset.css");
     // require("css!./theme.css");
 
-    require("css!./cricket-theme.css");
+    //require("css!./cricket-theme.css");
 });
