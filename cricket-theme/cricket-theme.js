@@ -1,6 +1,6 @@
 define(function(require, exports, module) {
 
-    require("css!./cricket/cricket-theme.css");
+    require("css!" + moduleId + "/cricket/cricket-theme.css");
 
     // require("css!bootstrap/../../css/bootstrap.css");
     // require("css!app/../../main.css");
